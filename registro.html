@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+  <head>
+    <!-- PAGE INFO -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ridhe.Up</title>
+
+    <!-- STYLE -->
+    <link rel="stylesheet" href="CSS/style2.css" />
+
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <h1 class="class=" logo>Ridhe.<span>Up</span></h1>
+      <div class="divider-1"></div>
+    </header>
+    <main>
+      <button type="button" class="button blue mobile" id="cadastrarCliente">
+        Registrar Herói
+      </button>
+      <button type="button2" class="button filtrar" id="button2">
+        <input size="8px" id="busca" type="text" /> Buscar Poderes
+      </button>
+      <table id="tbHeroi" class="records">
+        <thead>
+          <tr>
+            <th>imagem</th>
+            <th>Nome</th>
+            <th>Codinome</th>
+            <th>Distrito</th>
+            <th>Poderes</th>
+            <th>Ações</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div class="modal" id="modal">
+        <div class="modal-content">
+          <header class="modal-header">
+            <h2>Novo Herói</h2>
+            <span class="modal-close" id="modalClose">&#10006;</span>
+          </header>
+          <!-- MODAL -->
+          <form id="formHeroi" class="modal-form">
+            <!-- IMAGEM -->
+            <div class="image">
+              <div class="editar-content">
+                <span>
+                  <i>editar</i>
+                </span>
+              </div>
+              <div id="new">
+                <div class="close-preview-js close-preview">x</div>
+              </div>
+              <img src="img/icons/img.png" alt="Sem imagem" />
+            </div>
+
+            <input
+              id="file-preview-js"
+              type="file"
+              accept="image/*"
+              onchange="loaderFile(event)"
+            />
+
+            <!-- NOME -->
+            <input
+              type="text"
+              id="nome"
+              data-index="new"
+              class="modal-field"
+              placeholder="Nome do Herói"
+              required
+            />
+
+            <!-- CODINOME -->
+            <input
+              type="text"
+              id="codinome"
+              class="modal-field"
+              placeholder="Codinome do Herói"
+              required
+            />
+
+            <!-- DISTRITO -->
+            <input
+              type="text"
+              id="distrito"
+              class="modal-field"
+              placeholder="Distrito do Heroi"
+              required
+            />
+
+            <!-- PODERES -->
+            <input
+              type="text"
+              id="poderes"
+              class="modal-field"
+              placeholder="Poderes do Herói"
+              required
+            />
+          </form>
+          <!-- BOTOES -->
+          <footer class="modal-footer">
+            <button id="registrar" class="button green">Registrar</button>
+            <button id="cancelar" class="button blue">Cancelar</button>
+          </footer>
+        </div>
+      </div>
+    </main>
+
+    <footer class="section">
+      <div class="container grid">
+        <div class="brand">
+          <a> Ridhe.<span>Up</span></a>
+          <p>©2021 Ridhe.Up</p>
+          <p>Todos os direitos reservados.</p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- MAIN -->
+    <script src="JAVASCRIPTS/main2.js" defer></script>
+  </body>
+</html>
