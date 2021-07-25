@@ -1,6 +1,6 @@
 <h1 align="center">Ridhe.Up</h1>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/LOGO.png)
+![plot]()
 <br></br>
 ![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/index_header.jpeg)
 <br></br>
