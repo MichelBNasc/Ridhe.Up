@@ -17,7 +17,7 @@
 
 <p>A aplicação utiliza-se da Tríplice Aliança (HTML, CSS, JS)</p>
 
->Pode conferir sua execução clicando [aqui.](https://michelbnasc.github.io/Ridhe.Up/)
+>Confira sua execução clicando [aqui.](https://michelbnasc.github.io/Ridhe.Up/)
 
 ## | Como Utilizar
 
@@ -34,7 +34,7 @@
 
 ## | Telas
 
->Para conferir todas as telas disponíveis desta aplicação por [aqui.](https://github.com/MichelBNasc/Ridhe.Up/blob/main/README/TELAS.md)
+>Para conferir todas as telas disponíveis desta aplicação clique [aqui.](https://github.com/MichelBNasc/Ridhe.Up/blob/main/README/TELAS.md)
 
 
 ## | Pendências do projeto
