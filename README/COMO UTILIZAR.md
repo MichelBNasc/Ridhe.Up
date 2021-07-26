@@ -1,10 +1,6 @@
 <h1 align="center">Ridhe.Up</h1>
-<br></br>
 
 <h1 align="center"><img src="https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/icons/LOGO.png"></h1>
-
-
-
 
 
 ## | Como utilizar
@@ -31,7 +27,7 @@
 
 ![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/4como_utilizar.jpg)
 
-<p> | Preencha os campos com os dados do usuário.</p>
+<p> | Preencha os campos com os dados do herói.</p>
 
 ![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_campos_vazios.jpeg)
 
@@ -45,16 +41,24 @@
 
 <p> | Caso queira cancelar o registro basta clicar em [X] ou [cancelar].</p>
   
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/6cmo_utilizar.jpg)
+![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/6como_utilizar.jpg)
 
-<p> | Para editar/excluir o perfil do herói, utilize os botões a direita</p>
+<p> | Para editar/excluir o perfil do herói selecionado, utilize os botões de Ações a direita.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/4como_utilizar.jpeg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/5como_utilizar.jpeg)
+![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/7como_utilizar.jpg)
 
-<p> | Para a filtragem dos "poderes" do herói utilize o campo [Buscar]</p>
+<p> | Caso escolha editar, será redirecionado a tela de registro do herói selecionado.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/6como_utilizar.jpeg)
+![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_editando%20heroi.jpeg)
+
+<p> | Caso escolha excluir, então abrirá uma janela de confirmação.</p>
+
+![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_editando%20heroi.jpeg)
+
+<p> | Para a filtragem dos "poderes" do herói utilize o campo [Buscar Poderes].</p>
+
+![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/8como_utilizar.jpg)
+![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/registro_buscar.jpeg)
 
 
 
