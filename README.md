@@ -9,65 +9,56 @@
 
 ## | Sobre o Projeto
 
-<p>Uma aplicação feita por mim, onde implemento um CRUD(Create, Read, Update, Delete) de Ridhe.Up</p>
+<p>Uma aplicação feita por mim, onde implemento um CRUD(Create, Read, Update, Delete) de Heróis</p>
 
 
 ## | Descrição do projeto
 
 <p>Ridhe.Up (Registro Intergaláctico de Heróis) é uma aplicação para coleta de dados do usuário onde registra heróis e seus poderes sejam eles quais forem.</p>
 
+<p>A aplicação utiliza-se da Tríplice Aliança (HTML, CSS, JS)</p>
 
-## | Página inicial  
+>Pode conferir sua execução clicando [aqui.](https://michelbnasc.github.io/Ridhe.Up/)
 
-pode conferir a aplicação clicando [aqui](https://michelbnasc.github.io/Ridhe.Up/)
+## | Como Utilizar
 
-![alt text](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/home_Index.jpeg)
-![alt text](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/about_Index.jpeg)
-![alt text](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/testimonials_Index.jpeg)
-![alt text](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/footer_Index.jpeg)
+<p>Um CRUD pode ser utilizado de variás maneiras sendo elas:</p>
 
-## | Como utilizar
++ Controle de estoque
++ Registro de objetos
++ Consulta de dados
++ Filtragem de valores
 
-<p> | Ao entrar na página inicial, clicando em [Registre-se].</p>
+<p>Nesta aplicação utilizaremos algumas destas.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/1como_utilizar.jpeg)
+>Pode conferir como utilizar está aplicação clicando [aqui.](https://github.com/MichelBNasc/Ridhe.Up/blob/main/README/COMO%20UTILIZAR.md)
 
-<p> | Será redirecionado para o página de registro.</p>
+## | Telas
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/home_registro.jpeg)
+>Para conferir todas as telas disponíveis desta aplicação por [aqui.](https://github.com/MichelBNasc/Ridhe.Up/blob/main/README/TELAS.md)
 
-<p> | Clicando em [Registrar Herói] para abrir os campos de registro.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/2como_utilizar.jpeg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/registrar_heroi_Registro.jpeg)
+## | Pendências do projeto
 
-<p> | Clicando em [Escolher arquivo] para fazer o upload da imagem.</p>
-(⚠️parte em desenvolvimento, pois a imagen nao aparece junto ao perfil ao finalizar o registro⚠️)
++ ⚠️Caso o segundo cadastro subistitua o primeiro feche a pagina e abra novamente em [Registre-se].⚠️
++ ⚠️Imagem do cadasttro, esta apenas em modo temporario, pois nao é alocada junto aos dados do herói.⚠️
++ ⚠️Pode haver desalinhamento do layout do formato 790x940 a 485x940.⚠️
++ ⚠️Nos botões de [Ações] clicar em volta dos icones, pois foram alocados acima da box dos botões.⚠️
++ ⚠️A imagem carregada, pode manter caso o usuario escolha editar outro herói.⚠️
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/3como_utilizar.jpeg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/upload_imagem_Registro.jpeg)
 
-<p> | Preencha os campos com os dados do usuário.</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/registrar_heroi_Registro.jpeg)
+## | Ferramentas utilizadas
 
-<p> | Caso os campos nao forem preenchidos, logo após clicando em [registrar].</p>
++ [Visual Studio Code](https://code.visualstudio.com/)
++ [BeFunky](https://www.befunky.com/pt/)
++ [removebg](https://www.remove.bg/)
++ [flaticon](https://www.flaticon.com/)
++ [Unsplash](https://unsplash.com/)
++ [GoogleImagens](https://www.google.com.br/imghp?hl=pt-BR&tab=ri&ogbl)
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/preencher_campos_Registro.jpeg)
 
-<p> | Exemplos de registro</p>
 
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/novo_heroi_Registro.jpeg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/novo_heroi2_Registro.jpeg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/novo_heroi3_Registro.jpeg)
 
-<p> | Para editar/excluir o perfil do herói, utilize os botões a direita</p>
-
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/4como_utilizar.jpeg)
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/5como_utilizar.jpeg)
-
-<p> | Para a filtragem dos "poderes" do herói utilize o campo [Buscar]</p>
-
-![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/6como_utilizar.jpeg)
 
 
