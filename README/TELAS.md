@@ -1,7 +1,6 @@
 <h1 align="center">Ridhe.Up</h1>
-<br></br>
-<h1 align="center"><img src="https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/icons/LOGO.png"></h1>
 
+<h1 align="center"><img src="https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/icons/LOGO.png"></h1>
 
 ![plot](https://github.com/MichelBNasc/Ridhe.Up/blob/main/img/telas/index_header.jpeg)
 <br></br>
