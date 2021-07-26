@@ -39,11 +39,12 @@
 
 ## | Pendências do projeto
 
-+ ⚠️Caso o segundo cadastro subistitua o primeiro feche a pagina e abra novamente em [Registre-se].⚠️
-+ ⚠️Imagem do cadasttro, esta apenas em modo temporario, pois nao é alocada junto aos dados do herói.⚠️
-+ ⚠️Pode haver desalinhamento do layout do formato 790x940 a 485x940.⚠️
-+ ⚠️Nos botões de [Ações] clicar em volta dos icones, pois foram alocados acima da box dos botões.⚠️
-+ ⚠️A imagem carregada, pode manter caso o usuario escolha editar outro herói.⚠️
+>⚠️As integrações para upload de imagem estão em desenvolvimento. Devido a isso apenas será mostrado o preview durante a utilização do sistema,
+>  porém elas não serão armazenadas.⚠️
+
+>⚠️Pode haver desalinhamento do layout do formato 790x940 a 485x940.⚠️
+
+>⚠️Nos botões de [Ações] clicar em volta dos icones, pois foram alocados acima da box dos botões.⚠️
 
 
 
